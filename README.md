@@ -3,7 +3,7 @@
 A modern, responsive society management web app built using **React**, **Tailwind CSS**, and **Firebase**.  
 Easily manage members, communication, and settings — with real-time updates and a clean, intuitive UI.
 
-🔗 **Live Demo:** [View Project](https://dulcet-kitsune-ef3f47.netlify.app/login)
+🔗 **Live Demo:** [View Project]([https://dulcet-kitsune-ef3f47.netlify.app/login](https://dulcet-kitsune-ef3f47.netlify.app/))
 
 
 ---
