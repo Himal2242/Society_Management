@@ -5,7 +5,7 @@ Easily manage members, communication, and settings — with real-time updates an
 
 🔗 **Live Demo:** [View Project](https://dulcet-kitsune-ef3f47.netlify.app/Login)
 
-incase the link dosent work use : https://dulcet-kitsune-ef3f47.netlify.app/Login
+incase the link dosent work use : [https://dulcet-kitsune-ef3f47.netlify.app/Login](https://society-management-web.netlify.app/)
 
 
 
