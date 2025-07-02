@@ -52,7 +52,13 @@ incase the link dosent work use : [https://dulcet-kitsune-ef3f47.netlify.app/Log
 ---
 
 ## 📸 Screenshots
-*(Add screenshots here if possible — e.g., login page, dashboard, etc.)*
+![HomePage](https://github.com/user-attachments/assets/ec5c4350-774f-4000-a0ee-85d426de9c01)
+
+![Chat-section](https://github.com/user-attachments/assets/9fda8313-4a9e-47aa-bed6-0b0590c296ec)
+
+![Visitor Management](https://github.com/user-attachments/assets/93e524f6-7c7e-4276-8fb8-b20c551fca38)
+
+![Polls and Anouncements](https://github.com/user-attachments/assets/e1fda8ae-177a-4f88-ae62-2b07bc2bfeb1)
 
 ---
 
