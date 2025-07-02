@@ -3,6 +3,8 @@
 A modern, responsive society management web app built using **React**, **Tailwind CSS**, and **Firebase**.  
 Easily manage members, communication, and settings — with real-time updates and a clean, intuitive UI.
 
+FOR BEST EXPERIENCE OPEN THE WEBSITE ON PC.
+
 🔗 **Live Demo:** [View Project](https://society-management-web.netlify.app/)
 
 
